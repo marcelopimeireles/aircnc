@@ -12,22 +12,22 @@ This software was made during an event called Semana OmniStack that was made to 
 * React for the Web
 * React Native for mobile (both Android and iOS)
 
-###Features
+### Features
 * User login
 * Spot configuring
 * Dashboard of spots filtered by users or techs
 * Booking request with realtime updating (Websocket)
 
-###Installing
+### Installing
 On each folder, simply run on terminal: <code>npm install</code>.
 
-##Running the project
+## Running the project
 
-####Backend/ Local Server
+#### Backend/ Local Server
 Run on terminal:<code>npm run dev</code>
 
-####Web Frontend
+#### Web Frontend
 Run on terminal:<code>npm run start</code>
 
-####Mobile
+#### Mobile
 Configure and run your favorite mobile emulator or download the Expo App and read the QRCode rendered on terminal when run: <code>expo start</code>
